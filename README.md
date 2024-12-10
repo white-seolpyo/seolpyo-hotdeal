@@ -1,3 +1,7 @@
+[텔레그램 채널 "핫딜 RSS 리더기" 바로가기](https://t.me/+snmVyF0sgMs4M2Q1)
+
+[코드 설명 바로가기](https://django.seolpyo.com/entry/53/)
+
 # 필독
 전자서명 문제로 "핫딜 정보 RSS 리더기.exe" 실행시 Windows Defender에서 경고를 보냅니다.
 
