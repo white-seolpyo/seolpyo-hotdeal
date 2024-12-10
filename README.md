@@ -3,7 +3,7 @@
 [코드 설명 바로가기](https://django.seolpyo.com/entry/53/)
 
 # 필독
-전자서명 문제로 "핫딜 정보 RSS 리더기.exe" 실행시 Windows Defender에서 경고를 보냅니다.
+전자서명 문제로 "핫딜 정보 RSS 리더기.exe" 실행시 Windows Defender에서 아래 이미지와 같이 경고를 보냅니다.
 
 파일에 전자서명이 되어있지 않아 발생하는 문제로, 이런 경고가 신경쓰인다면 사용하지 않으셔도 됩니다.
 
